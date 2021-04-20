@@ -1,4 +1,4 @@
-# first_assignment
+# kickstarter-analysis
 Module 1
 
 Push Test
