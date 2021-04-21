@@ -1,8 +1,6 @@
 # Kickstarting with Excel
 
-## In this project I analyzed the Outcomes of fundraising campaigns for plays based on their launch dates
-and their goals. This helped indicate whether some plays were more successful at a certain time of the year
-and whether their initial goals were correlated with their success or failure
+## In this project I analyzed the Outcomes of fundraising campaigns for plays based on their launch dates and their goals. This helped indicate whether some plays were more successful at a certain time of the year and whether their initial goals were correlated with their success or failure.
 
 ## Analysis and Challenges
 Challenge 1: I began this by making a pivot table from the kickstarter tab and renaming the sheet to 
