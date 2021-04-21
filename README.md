@@ -41,7 +41,7 @@ another cell or number to indicate that.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-Launch in May / June
+Launch in May / June since those have higher success rates according to historicals. The two lines on the graph for successful & failed campaigns are correlated throughout the year, so although there is a higher chance of success in May / June, there are also more failures but the % of successful campaigns is still higher and spikes by a larger amount which tells us that you're more likely to be one of the campaigns that succeeds if you launch in this time frame. 
 
 - What can you conclude about the Outcomes based on Goals?
 Set a goal less than 10K to have a success rate of 60% or higher.
@@ -52,6 +52,6 @@ on the range from 45K-49.9K (100%) but that is because there was only 1 successf
 It is not indicative of a future successful campaign within the same range.
 
 - What are some other possible tables and/or graphs that we could create?
-We could create a a secondary axis on the outcomes based on goal to show the amount of data point in that range.
+We could create a a secondary axis on the outcomes based on goal to show the amount of data points in that range.
 That way, we are more confident on the success rate because it is backed up by multiple data points instead of a few
 that really skew the graph. 
